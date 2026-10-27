@@ -10,6 +10,7 @@ Nombre del proyecto: elmejorequipo
 
 * Lucía
 * Javier
+* Diego
 
 
 
