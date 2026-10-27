@@ -10,6 +10,7 @@ Nombre del proyecto: equipo-proyecto
 
 * Lucía
 * Javier
+* Diego
 
 
 
