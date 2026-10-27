@@ -8,5 +8,5 @@ Nombre del proyecto: por definir
 
 \## Miembros
 
-* Lucia
+* Javier
 
