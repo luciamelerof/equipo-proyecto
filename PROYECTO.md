@@ -8,3 +8,5 @@ Nombre del proyecto: por definir
 
 \## Miembros
 
+* Lucía
+
