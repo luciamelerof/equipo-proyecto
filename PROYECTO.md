@@ -2,7 +2,7 @@
 
 
 
-Nombre del proyecto: equipo-proyecto
+Nombre del proyecto: elmejorequipo
 
 
 
